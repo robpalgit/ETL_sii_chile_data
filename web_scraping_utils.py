@@ -3,7 +3,6 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-from sqlalchemy import create_engine
 
 ## DEFINE month_dict ##
 
